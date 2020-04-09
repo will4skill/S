@@ -1,13 +1,3 @@
-// References
-// 1. https://expressjs.com/en/4x/api.html#res.json
-// 2. https://expressjs.com/en/4x/api.html#res.type
-// 3. https://stackoverflow.com/questions/21398279/how-can-i-respond-in-xml-using-expressjs
-// 4. http://expressjs.com/en/5x/api.html#req.query
-// 5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDate
-// 6. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
-// 7. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
-// 8. https://www.npmjs.com/package/js2xmlparser
-// 9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 const express = require('express');
 const router = express.Router();
 const input_data_utility = require('../utilities/data_helper.js');
